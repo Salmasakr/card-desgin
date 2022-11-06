@@ -1,0 +1,35 @@
+body{
+    margin: 20px;
+    font-family: cursive;
+    font-size: 20px;
+    
+}
+.avatar{
+width: 220px;
+}
+.card{
+    width: 600px;
+    height: 250px;
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+    padding-top: 70px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: rgb(255, 239, 204);
+    border-bottom: 5px solid #aa9fd4;
+    color: black;
+    border-radius: 5px;
+
+}
+img{
+    border-radius: 5px;
+}
+.word{
+    padding-top: 20px;
+}
+/* rgb(191 190 196) */
+/* rgb(141 181 184) */
+/* #d49f9f87 */
+/* rgb(146 210 214) */
